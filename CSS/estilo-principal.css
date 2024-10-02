@@ -1,0 +1,49 @@
+.container-tittle{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.container-usabilidad{
+    width: 40%;
+    margin: 0 auto;
+    margin-bottom: 20px
+}
+.container-usabilidad img {
+    width: 100%; 
+    height: auto; 
+}
+.pie-pagina{
+    padding: 5rem;
+    background-color: #434849;
+    color: #fff;
+    text-align: center;
+}
+.container-importancia{
+    width: 40%;
+    margin: 0 auto;
+    margin-bottom: 20px
+}
+.container-importancia img{
+    max-width: 100%;
+    height: auto;       
+}
+.container-principios{
+    width: 40%;
+    margin: 0 auto;
+    margin-bottom: 20px
+}
+.container-principios img{
+    width: 100%; 
+    height: auto; 
+}
+.navbar{
+    width: 100%;
+    position: fixed; 
+    top: 0; 
+    z-index: 1000;
+}
